@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing al Cliente Es Humberto 1`] = `
+Object {
+  "balance": 900000,
+  "nombre": "Humberto Valenzuela Actualizado",
+  "tipo": "Premium",
+}
+`;
